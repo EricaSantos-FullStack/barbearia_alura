@@ -22,7 +22,7 @@ ____________________
 - [x] Criação do logo
 - [ ] Inclusão de um carrocel de imagens
 - [ ] Inclusão de UI (User Interface) mais moderno - Projeto criado no FIGMA
-- [ ] Design direto ao ponto sem muita 
+- [ ] Design e site direto ao ponto 
 
 ### 📈 Refatoração do código:
 ____________________
