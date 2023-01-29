@@ -1,2 +1,2 @@
 # barbearia
-Barbearia Navalha Afiada
+Barbearia Entre feio e Saia Bonito
