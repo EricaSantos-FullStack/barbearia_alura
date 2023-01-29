@@ -1,4 +1,4 @@
-# Barbearia > Entre Feio e Saia Bonito 🥸👉😎
+# Barbearia > Entre Feio e Saia Bonito 😎
 ![banner_barbearia](https://user-images.githubusercontent.com/71906862/215306628-045dac1f-2051-4d97-acd8-a18968f26fd7.png)
 
 Barbearia criada em clima de descontração para te ajudar a "dar um talento" no visual, seja corte de cabelo, barba ou os dois juntos.<br>
@@ -22,10 +22,11 @@ ____________________
 - [x] Criação do logo
 - [ ] Inclusão de um carrocel de imagens
 - [ ] Inclusão de UI (User Interface) mais moderno - Projeto criado no FIGMA
+- [ ] Design direto ao ponto sem muita 
 
 ### 📈 Refatoração do código:
 ____________________
-- [ ] Clean Code - alteração de alguns nomes para uma linguagem mais clara
+- [ ] Clean Code - alteração dos nomes para uma linguagem mais clara
 - [ ] Tradução para o inglês
 - [ ] Organização das pastas
 
