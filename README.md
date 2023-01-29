@@ -1,4 +1,5 @@
 # Barbearia > Entre Feio e Saia Bonito 🥸👉😎
+![banner_barbearia](https://user-images.githubusercontent.com/71906862/215306628-045dac1f-2051-4d97-acd8-a18968f26fd7.png)
 
 Barbearia criada em clima de descontração para te ajudar a "dar um talento" no visual, seja corte de cabelo, barba ou os dois juntos.<br>
 Garantia de ambiente amigável, breja gelada e estilo na medida certa.<br>
