@@ -20,7 +20,7 @@ ____________________
 ____________________
 - [x] Decisão do nome da barbearia
 - [x] Criação do logo
-- [ ] Inclusão de um carrocel de imagens
+- [ ] Inclusão de um carrocel de imagens/ efeito Parallax
 - [ ] Inclusão de UI (User Interface) mais moderno - Projeto criado no FIGMA
 - [ ] Design e site direto ao ponto 
 
