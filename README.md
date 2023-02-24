@@ -12,7 +12,7 @@ ____________________
 - [x] Repositório do projeto
 - [x] Desenvolvimento da home page
 - [x] Página de serviços
-- [ ] Página de cadastro
+- [x] Página de cadastro
 - [ ] Extra: Incluindo um Mapa e um video
 - [ ] ReadMe do projeto
 
