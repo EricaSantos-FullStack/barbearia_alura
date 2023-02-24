@@ -12,7 +12,7 @@ ____________________
 - [x] Repositório do projeto
 - [x] Desenvolvimento da home page
 - [x] Página de serviços
-- [ ] Página de cadastro
+- [x] Página de cadastro
 - [ ] Extra: Incluindo um Mapa e um video
 - [ ] ReadMe do projeto
 
@@ -20,7 +20,7 @@ ____________________
 ____________________
 - [x] Decisão do nome da barbearia
 - [x] Criação do logo
-- [ ] Inclusão de um carrocel de imagens
+- [ ] Inclusão de um carrocel de imagens/ efeito Parallax
 - [ ] Inclusão de UI (User Interface) mais moderno - Projeto criado no FIGMA
 - [ ] Design e site direto ao ponto 
 
