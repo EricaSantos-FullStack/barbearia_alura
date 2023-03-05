@@ -1,146 +1,110 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>contato - entre feio e saia bonito</title>
 
-    <link rel="stylesheet" href="reset.css" />
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="" />
-  </head>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>contato - barbearia alura</title>
 
-  <body>
-    <header>
-      <div class="caixa">
-        <h1><img src="./img/logo.png" alt="logo da barbearia" /></h1>
-        <nav>
-          <ul>
-            <li><a href="home.html">Home</a></li>
-            <li><a href="produtos.html">Produtos</a></li>
-            <li><a href="contato.html">Contatos</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+  <link rel="stylesheet" href="reset.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
 
-    <main>
-      <form>
-        <label for="nomeSobrenome"> Nome e Sobrenome</label>
-        <input type="text" id="nomeSobrenome" class="input-padrao" required />
+<body>
+  <header>
+    <div class="caixa">
+      <h1><img src="./img/logo.png" alt="logo da barbearia" /></h1>
+      <nav>
+        <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="produtos.html">Produtos</a></li>
+          <li><a href="contato.html">Contato</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-        <label for="email">Email</label>
-        <input
-          type="email"
-          id="email"
-          class="input-padrao"
-          placeholder="email@example.com"
-          required
-        />
+  <main>
+    <form class="formulario-contato">
+      <label for="nomeSobrenome"> Nome e Sobrenome</label>
+      <input type="text" id="nomeSobrenome" class="input-padrao" required />
 
-        <label for="telefone">Telefone</label>
-        <input
-          type="tel"
-          id="telefone"
-          class="input-padrao"
-          placeholder="(XX) XXXXX-XXXX"
-          required
-        />
+      <label for="email">Email</label>
+      <input type="email" id="email" class="input-padrao" placeholder="email@example.com" required />
 
-        <label for="mensagem">Mensagem</label>
-        <textarea
-          id="mensagem"
-          cols="70"
-          rows="10"
-          class="input-padrao"
-          required
-        ></textarea>
+      <label for="telefone">Telefone</label>
+      <input type="tel" id="telefone" class="input-padrao" placeholder="(XX) XXXXX-XXXX" required />
 
-        <fieldset>
-          <legend>Como prefere o nosso contato</legend>
-          <label for="radioEmail"
-            ><input
-              type="radio"
-              name="contato"
-              value="email"
-              id="radioEmail"
-            />Email</label
-          >
+      <label for="mensagem">Mensagem</label>
+      <textarea id="mensagem" cols="70" rows="10" class="input-padrao" required></textarea>
 
-          <label for="radioTelefone"
-            ><input
-              type="radio"
-              name="contato"
-              value="telefone"
-              id="radioTelefone"
-            />Telefone</label
-          >
+      <fieldset>
+        <legend>Como prefere o nosso contato</legend>
+        <label for="radioEmail"><input type="radio" name="contato" value="email" id="radioEmail" />Email</label>
 
-          <label for="radioWhatsapp"
-            ><input
-              type="radio"
-              name="contato"
-              value="whatsapp"
-              id="radioWhatsapp"
-              checked
-            />Whatsapp</label
-          >
-        </fieldset>
+        <label for="radioTelefone"><input type="radio" name="contato" value="telefone"
+            id="radioTelefone" />Telefone</label>
 
-        <fieldset>
-          <legend>Qual horário prefere ser atendido?</legend>
-          <select>
-            <option>Manhã</option>
-            <option>Tarde</option>
-            <option>Noite</option>
-          </select>
-        </fieldset>
+        <label for="radioWhatsapp"><input type="radio" name="contato" value="whatsapp" id="radioWhatsapp"
+            checked />Whatsapp</label>
+      </fieldset>
 
-        <table>
-          <thead>
-            <tr>
-              <th>Dia</th>
-              <th>Horário</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Segunda</td>
-              <td>8h ~ 20h</td>
-            </tr>
-            <tr>
-              <td>Quarta</td>
-              <td>8h ~ 20h</td>
-            </tr>
-            <tr>
-              <td>Sexta</td>
-              <td>8h ~ 20h</td>
-            </tr>
-            <tr>
-              <td>Sábado</td>
-              <td>8h ~ 13h</td>
-            </tr>
-            <tr>
-              <td colspan="5">* Cerveja gelada a todo momento</td>
-            </tr>
-          </tbody>
-        </table>
+      <fieldset>
+        <legend>Qual horário prefere ser atendido?</legend>
+        <select>
+          <option>Manhã</option>
+          <option>Tarde</option>
+          <option>Noite</option>
+        </select>
+      </fieldset>
 
-        <label>
-          <input type="checkbox" class="checkbox" checked />
-          Gostaria de receber nossas novidades por email?
-        </label>
+      <table>
+        <thead>
+          <tr>
+            <th>Dia</th>
+            <th>Horário</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Segunda</td>
+            <td>8h ~ 20h</td>
+          </tr>
+          <tr>
+            <td>Quarta</td>
+            <td>8h ~ 20h</td>
+          </tr>
+          <tr>
+            <td>Sexta</td>
+            <td>8h ~ 20h</td>
+          </tr>
+          <tr>
+            <td>Sábado</td>
+            <td>8h ~ 13h</td>
+          </tr>
+          <tr>
+            <td colspan="5">* Cerveja gelada a todo momento</td>
+          </tr>
+        </tbody>
+      </table>
 
-        <input type="submit" value="Enviar" class="enviar" />
-      </form>
-    </main>
+      <label>
+        <input type="checkbox" class="checkbox" checked />
+        Gostaria de receber nossas novidades por email?
+      </label>
 
-    <footer>
-      <img src="/img/logo-branco.png" alt="logo da barbearia" />
-      <p class="copyright">
-        &copy; Copyright Barbearia Entre Feio e Saia Bonito - 2022
-      </p>
-    </footer>
-  </body>
+      <input type="submit" value="Enviar" class="enviar" />
+    </form>
+    </section>
+  </main>
+
+  <footer>
+    <img src="/img/logo-branco.png" alt="logo da barbearia" />
+    <p class="copyright">
+      &copy; Copyright Barbearia Alura - 2022
+    </p>
+  </footer>
+</body>
+
 </html>
