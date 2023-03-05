@@ -1,11 +1,8 @@
-# Barbearia > Entre Feio e Saia Bonito 😎
-![banner_barbearia](https://user-images.githubusercontent.com/71906862/215306628-045dac1f-2051-4d97-acd8-a18968f26fd7.png)
+# Barbearia > Alura 
 
-Barbearia criada em clima de descontração para te ajudar a "dar um talento" no visual, seja corte de cabelo, barba ou os dois juntos.<br>
-Garantia de ambiente amigável, breja gelada e estilo na medida certa.<br>
-👉 Confira os nossos serviços!👈
 
-✨ 1# Projetinho desenvolvido e aperfeiçoado do meu jeitinho durante a Trilha Desenvolve - Full Stack da plataforma Alura em parceria com o Grupo Boticário. <br> 
+Barbearia Alura criada durante as primeiras aulas da Trilha Desenvolve - Full Stack da plataforma Alura em parceria com o Grupo Boticário. <br>
+Desenvolvido exatamente igual ao modelo inicial.
 
 ### ✏ Projeto inicial:
 ____________________
@@ -13,23 +10,17 @@ ____________________
 - [x] Desenvolvimento da home page
 - [x] Página de serviços
 - [x] Página de cadastro
-- [ ] Extra: Incluindo um Mapa e um video
-- [ ] ReadMe do projeto
+- [x] Incluindo um Mapa e um video
+- [x] Extra: Layout responsivo
+- [x] ReadMe do projeto
 
-### 🍨 Aperfeiçoamento:
+### 😉 Próximos passos:
 ____________________
-- [x] Decisão do nome da barbearia
-- [x] Criação do logo
-- [ ] Inclusão de um carrocel de imagens/ efeito Parallax
-- [ ] Inclusão de UI (User Interface) mais moderno - Projeto criado no FIGMA
-- [ ] Design e site direto ao ponto 
+1. Criação de uma identidade visual
+2. Refatoração do código
+3. Organização das pastas e arquivos
 
-### 📈 Refatoração do código:
-____________________
-- [ ] Clean Code - alteração dos nomes para uma linguagem mais clara
-- [ ] Tradução para o inglês
-- [ ] Organização das pastas
+✨ Dar aquele UP no projeto 🚧 Em construção ...
 
-### 🛠 Ferramentas necessárias:
-____________________
-- [x] [Visual Studio Code](https://code.visualstudio.com/)
+### ✅ Projeto finalizado
+
