@@ -26,4 +26,5 @@ ____________________
 
 ### ✅ Projeto finalizado
 ____________________
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f3f4294-9d52-43cf-b5cd-2eda82dd9a92/deploy-status)](https://app.netlify.com/sites/barbearia-alura-projeto-inicial/deploys)<br>
+https://barbearia-alura-projeto-inicial.netlify.app/
