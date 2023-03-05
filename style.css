@@ -234,7 +234,7 @@ th {
 }
 
 .itens:before {
-  content: "✀ ";
+  content: "🟊 ";
 }
 
 .itens:first-child {
