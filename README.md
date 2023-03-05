@@ -1,8 +1,8 @@
 # Barbearia > Alura 
 ![barbearia_alura](https://user-images.githubusercontent.com/71906862/222978999-38d83bf9-d26c-4daf-bdf4-e06a75ce1b54.png)
 
-Barbearia Alura criada durante as primeiras aulas da Trilha Desenvolve - Full Stack da plataforma Alura em parceria com o Grupo Boticário. <br>
-Desenvolvido exatamente igual ao modelo inicial.
+✂️ Projeto Barbearia Alura criada durante as primeiras aulas da Trilha Desenvolve - Full Stack da plataforma Alura em parceria com o Grupo Boticário. <br>
+✂️ Desenvolvido exatamente igual ao modelo inicial e com um extra de responsividade.
 
 ### ✏ Projeto inicial:
 ____________________
