@@ -13,6 +13,7 @@ ____________________
 - [x] Incluindo um Mapa e um video
 - [x] Extra: Layout responsivo
 - [x] ReadMe do projeto
+- [x] Deploy
 
 ### 😉 Próximos passos:
 ____________________
