@@ -4,7 +4,7 @@
 ✂️ Projeto Barbearia Alura criada durante as primeiras aulas da Trilha Desenvolve - Full Stack da plataforma Alura em parceria com o Grupo Boticário. <br>
 ✂️ Desenvolvido exatamente igual ao modelo inicial e com um extra de responsividade.
 
-### ✏ Projeto inicial:
+### ✏ Projeto:
 ____________________
 - [x] Repositório do projeto
 - [x] Desenvolvimento da home page
@@ -13,6 +13,7 @@ ____________________
 - [x] Incluindo um Mapa e um video
 - [x] Extra: Layout responsivo
 - [x] ReadMe do projeto
+- [x] Deploy
 
 ### 😉 Próximos passos:
 ____________________
