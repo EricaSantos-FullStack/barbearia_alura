@@ -276,4 +276,28 @@ th {
   .imgbeneficios {
     width: 100%;
   }
+
+  .formulario-contato {
+    margin: 15px 15px;
+  }
+
+  .produtos {
+    display: flex;
+    text-align: center;
+    width: 90%;
+  }
+
+  .img-produto {
+    display: flex;
+    align-items: center;
+    width: 90%;
+  }
+
+  li {
+    margin: 10px 10px;
+  }
+
+  h2 {
+    font-size: 10px;
+  }
 }
